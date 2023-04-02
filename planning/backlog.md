@@ -1,30 +1,38 @@
 # Backlog
 
-A collection of user stories you can choose from. Stories inside each priority
-level are not necessarily in order, it's up to your group to decide how they fit
-into your strategy. These are also just suggestion, feel free to change them or
-create your own!
-
 ## Must-Haves
 
 > these are necessary for basic usability
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a first time visitor of the website I should understand what the website is
+  about.
+  - [ ] _there is a title the top of the page_
+- As a first time visitor of the website I should be able to access different
+  parts of the website by clicking on the buttons in the navigation bar.
+  - [ ] _there is a navigation bar at the top of the page_
+- As a nature enthusiast I should be able to contact the creators of the website
+  to talk to them about the environment by clicking on the links for different
+  platforms.
+  - [ ] _there are links for different platforms at the footer of the page for
+        contacting the authors of the website_
+- As a student I should have access to various information about trees by
+  navigating through links that can be found throughout the webpage.
+  - [ ] _there are several links to different sources to learn more information
+        about trees_
 
 ## Should-Haves
 
 > these will complete the user experience, but are not necessary
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a gardener I should have some extra information on how to take care of
+  trees.
+  - [ ] _there is an 'extras' section in the navigation bar for more information
+        about trees_
 
 ## Could-Haves
 
 > would be really cool ... if there's time
 
-- [ ] As a ... I want to ... so that ...
-  - _Given [context] when [a specific action is performed] then [a set of
-    consequences should occur]_
+- As a visitor of the website I should see images or animations of trees/tree
+  parts.
+  - [ ] _there are images or animations of trees/tree parts_
