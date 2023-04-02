@@ -1,6 +1,8 @@
-# Name of project
+# All About Trees
 
-> A longer description
+This is a small webpage dedicated to providing information about trees. The site
+features articles, images, and resources related to various types of trees and
+their importance to the environment.
 
 ## Table of contents
 
@@ -22,7 +24,7 @@
 
 ## General info
 
-> A short description
+> A simple website about trees.
 
 ## Screenshots
 
