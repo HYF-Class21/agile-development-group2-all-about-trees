@@ -30,6 +30,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 
 | Day      | Monday  | Tuesday | Wednesday | Thursday | Friday  | Saturday | Sunday  |
 | -------- | :-----: | :-----: | :-------: | :------: | :-----: | :------: | :-----: |
+| Allan    | 19 - 21 | 19 - 21 |  19 - 21  | 19 - 21  | 19 - 21 |    NA    | 12 - 16 |
 | Alex     | 18 - 21 | 18 - 21 |  18 - 21  | 18 - 21  | 18 - 21 |    NA    | 12 - 16 |
 | Arseniia | 18 - 21 | 18 - 21 |  18 - 21  | 18 - 21  | 18 - 21 |    NA    | 12 - 16 |
 | Faisal   | 16 - 21 | 16 - 21 |  16 - 21  | 16 - 21  | 16 - 21 |    NA    | 12 - 16 |
@@ -37,6 +38,7 @@ How often will we get in touch on each channel, and what we will discuss there:
 ### How many hours everyone has per day
 
 - Alex: _6h_; Busy with studies so won't always be able available.
+- Alex: _4h_; Available times may change due to other circumstances.
 - Arseniia: _5h_; Occupied with work so won't always be able available
 - Faisal: _6h_; Sometimes works from 17 - 20 and won't be available during those
   hours.
