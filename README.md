@@ -6,73 +6,53 @@ their importance to the environment.
 
 ## Table of contents
 
-- [Name of project](#name-of-project)
-  - [Table of contents](#table-of-contents)
-  - [General info](#general-info)
+- [All About Trees](#all-about-trees)
   - [Screenshots](#screenshots)
-  - [Technologies](#technologies)
-  - [Setup](#setup)
-  - [Code Examples](#code-examples)
   - [Features](#features)
-  - [Status](#status)
-  - [Inspiration](#inspiration)
-  - [Contact](#contact)
+  - [Technologies](#technologies-used)
+  - [Setup](#setup)
+  - [Team Members](#team-members)
   - [Instructions for use](#instructions-for-use)
-  - [Code Quality Checks](#code-quality-checks)
-  - [Continuous Integration (CI)](#continuous-integration-ci)
-  - [Repo Setup](#repo-setup)
-
-## General info
-
-> A simple website about trees.
 
 ## Screenshots
 
-![Example screenshot](./planning/screenshot.jpg)
-
-## Technologies
-
-- Node 14.16.0
-- VSC code
-- JavaScript
-- ...
-- ...
-
-## Setup
-
-- `npm run start`
-
-## Code Examples
-
-```js
-// the hello world program
-console.log("Hello World");
-```
+![Screenshot](./public/wireframe.jpg)
 
 ## Features
 
-List of features ready and Todos for future development
+The website will be split into 3 parts and will include the following features:
 
--
--
--
+- Heading
+  - Title
+  - Navbar
+- Main section
+  - Sidebar
+  - Main content (images/text)
+- Footer
+  - Links to contact the creators of the website
 
-To-do list:
+## Technologies Used
 
--
--
+- Node
+- VS Code
+- HTML & CSS
+- Git & Github
+- Figma
 
-## Status
+## Setup
 
-Project is: _in progress_
+- Created a group repo on GitHub from a template repo
+  - [Group 2 repository](https://github.com/HYF-Class21/agile-development-group2-all-about-trees)
+- Added members of the project to the repo
+- Cloned the repo
+- Created the group issue to track progress of the project
 
-## Inspiration
+## Team Members
 
-Project by freeCodeCamp.org
-
-## Contact
-
-By [Name]
+- Alex
+- Allan
+- Arseniia
+- Faisal
 
 ## Instructions for use
 
