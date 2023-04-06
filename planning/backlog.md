@@ -4,14 +4,13 @@
 
 > these are necessary for basic usability
 
-- As a first time visitor of the website I should understand what the website is
-  about.
-  - [ ] _there is a title the top of the page_
-- As a first time visitor of the website I should be able to access different
-  parts of the website by clicking on the buttons in the navigation bar.
-  - [ ] _there is a navigation bar at the top of the page_
-- As a student I should have access to various information about trees by
-  navigating through links that can be found throughout the webpage.
+- As a user I can read the title of the page.
+  - [ ] _there is a prominent title at the top of the web page_
+- As a user I can navigate the web page from a navbar.
+  - [ ] _there is a navbar at the top of the page with links to the different
+        sections_
+- As a college student I should have access to various information about trees
+  by navigating through links that can be found throughout the webpage.
   - [ ] _there are several links to different sources to learn more information
         about trees_
 - As a user of the website, I should be able to search for what I need on the
