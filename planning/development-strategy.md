@@ -28,10 +28,9 @@ Color legend:
 
 <!-- each issue created from this section will have the `for: user story` label -->
 
-> "As a first time visitor of the website I should understand what the website
-> is about."
+> "As a user I can read the title of the page."
 
-- [ ] _there is a title the top of the page_
+- [ ] _there is a prominent title at the top of the web page_
 
 ### Title: HTML
 
@@ -45,10 +44,10 @@ Color legend:
 
 ## Nav-bar
 
-> "As a first time visitor of the website I should be able to access different
-> parts of the website by clicking on the buttons in the navigation bar."
+> "As a user I can navigate the web page from a navbar."
 
-- [ ] _there is a navigation bar at the top of the page_
+- [ ] _there is a navbar at the top of the page with links to the different
+      sections_
 
 ### Nav-bar: HTML
 
@@ -63,9 +62,9 @@ Color legend:
 
 ## Main section
 
-> "As a visitor of the website I should see images or animations of trees."
+> "As a user I can learn about trees."
 
-- [ ] _there are images or animations of trees/tree parts_
+- [ ] _there is a main text in the page with helpful info_
 
 ### Main section: HTML
 
@@ -79,7 +78,7 @@ Color legend:
 
 ## Sidebar
 
-> "As a user of the website, I should be able to search for what I need on the
+> "As a college student, I should be able to search for what I need on the
 > website and have access to various resources."
 
 - [ ] _there is a sidebar in the main section with a search bar and links for
